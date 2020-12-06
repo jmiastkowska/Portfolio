@@ -1,6 +1,3 @@
-# Portfolio
-My Tester's Portfolio
-
 ## About me
 
  A communicative and dedicated professional with 9 years of experience in acceptance testing from the perspective of a business ordering the WEB software and application implementation. I am passionate about identifying and solving problems. I have the ISTQB Level Foundation certificate. I am determined to redirect my career path towards software testing. I would like to develop and utilise my skills in this field. Right now I am seeking an entry level position with a company that creates inspiring atmosphere with new challenges every day.
