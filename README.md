@@ -4,13 +4,9 @@
 
 ## Tools used in testing:
 
-* Chrome Dev Tools
-
-## Tech Stack
-
 * ISTQB: Foundation Level 
 * Databases: MySQL
-* Testing: Selenium, Postman, JUnit,
+* Testing: Selenium, Postman, JUnit, Chrome Dev Tools
 * Version Control Systems: Git, Gitlab,
 * Other tools: Confluence, JIRA, Trello, TestLink, TestRail,
 
