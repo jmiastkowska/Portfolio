@@ -37,9 +37,9 @@
 
   - Individual project - testing site [grome.eu](https://pl.grome.eu/)
      - [Report]
-     - [User story](https://drive.google.com/file/d/1h159s6H5jSg9EBX8WSnZYll2gEB3oxFy/view?usp=sharing)(https://drive.google.com/file/d/1n117VHU1LNIPGgsOquRyvLLPYkc1lB3H/view?usp=sharing)
+     - [User story](https://drive.google.com/file/d/1AdN97VOgD-912e2xFLkS4KD_mkI2Ado4/view?usp=sharing)
      - [Epics]
-     - [Test scenario - test cases] (https://drive.google.com/drive/folders/1kyREj8DqR6oJSr3dtYU1Oel-jRZqqP5A)
+     - [Test scenario - test cases](https://drive.google.com/file/d/1HzPBOY51j6-K1U1gfZNy2ATSn2mb0Yx3/view?usp=sharing)
      - [Functional requirements]
      - [Mind map]
      - [Automated Postman tests]
