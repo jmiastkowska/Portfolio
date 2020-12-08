@@ -36,6 +36,6 @@
      - [User story](https://drive.google.com/file/d/1AdN97VOgD-912e2xFLkS4KD_mkI2Ado4/view?usp=sharing)
      - [Epics]
      - [Test scenario - test cases](https://drive.google.com/file/d/1HzPBOY51j6-K1U1gfZNy2ATSn2mb0Yx3/view?usp=sharing)
-     - [Functional requirements]
+     - [Functional requirements](https://drive.google.com/file/d/1QbTARGtTAuzuhvdU48H7lO4cFi8Ao0TL/view?usp=sharing)
      - [Mind map]
      - [Automated Postman tests]
