@@ -6,7 +6,7 @@
 
 * ISTQB: Foundation Level 
 * Databases: MySQL
-* Testing: Selenium, Postman, JUnit, Chrome Dev Tools
+* Testing: Selenium WebDriver, Postman, Chrome Dev Tools
 * Version Control Systems: Git, Gitlab,
 * Other tools: Confluence, JIRA, Trello, TestLink, TestRail,
 
@@ -28,14 +28,15 @@
   - 
 ## My examples of CSS Selectors and xPaths
   - 
+## MySQL exercise 
 
 ## My Projects
 
   - Individual project - testing site [grome.eu](https://pl.grome.eu/)
      - [Report]
      - [User story](https://drive.google.com/file/d/1AdN97VOgD-912e2xFLkS4KD_mkI2Ado4/view?usp=sharing)
-     - [Epics]
      - [Test scenario - test cases](https://drive.google.com/file/d/1HzPBOY51j6-K1U1gfZNy2ATSn2mb0Yx3/view?usp=sharing)
      - [Functional requirements](https://drive.google.com/file/d/1QbTARGtTAuzuhvdU48H7lO4cFi8Ao0TL/view?usp=sharing)
+     - [Bug reports]
      - [Mind map]
      - [Automated Postman tests]
