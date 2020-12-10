@@ -4,7 +4,6 @@
 
 ## Tools used in testing:
 
-* ISTQB: Foundation Level 
 * Databases: MySQL
 * Testing: Selenium WebDriver, Postman, Chrome Dev Tools
 * Version Control Systems: Git, Gitlab,
@@ -12,6 +11,7 @@
 
 # Tech skills
 
+  - ISTQB: Foundation Level 
   - Software testing
   - Creating test cases, test scenario,
   - Bugs reporting and retesting
