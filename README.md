@@ -29,7 +29,7 @@
 ## My examples of CSS Selectors and xPaths
   - 
 ## MySQL exercise 
-  - 
+  - [part 1](https://github.com/jmiastkowska/SQL)
 
 ## My Projects
 
