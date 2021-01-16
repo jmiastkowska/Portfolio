@@ -30,6 +30,7 @@
   - 
 ## MySQL exercise 
   - [part 1](https://github.com/jmiastkowska/SQL)
+  - [part 2](https://github.com/jmiastkowska/zadania-z-sql)
 
 ## My Projects
 
