@@ -1,19 +1,19 @@
 ## About me
 
- A communicative and dedicated professional with 9 years of experience in acceptance testing from the perspective of a business ordering the WEB software and application implementation. I am passionate about identifying and solving problems. I have the ISTQB Level Foundation certificate. I am determined to redirect my career path towards software testing. I would like to develop and utilise my skills in this field. Right now I am seeking an entry level position with a company that creates inspiring atmosphere with new challenges every day.
+A communicative and dedicated professional who has a high awareness of the role of QA specialist in an IT Project. I have 6 years of experience in the field of testing including 3 years in agile/scrum metodology and 3 years in UAT. Right now I am seeking an opportunity to continue my development with a company that creates inspiring atmosphere with new challenges every day.
 
 ## Tools used in testing:
 
-* Databases: MySQL
-* Testing: Selenium WebDriver, Postman, Chrome Dev Tools
+* Databases: MySQL,MS SQL, Neo4j, DynamoDB
+* Testing: Selenium WebDriver, Postman, Chrome Dev Tools, Playwright/TS
 * Version Control Systems: Git, Gitlab,
-* Other tools: Confluence, JIRA, Trello, TestLink, TestRail,
+* Other tools: Confluence, JIRA, Xray, TestLink, TestRail, AzureDevOps
 
 # Tech skills
 
-  - ISTQB: Foundation Level 
+  - ISTQB: Foundation Level, Test Analyst 
   - Software testing
-  - Creating test cases, test scenario,
+  - Creating test cases, test scenario, test report and test plans
   - Bugs reporting and retesting
   - Finding uniqe CSS Selectors and xPaths
   - Creating diagrams and decision tables
