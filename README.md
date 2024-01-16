@@ -4,10 +4,10 @@ A communicative and dedicated professional who has a high awareness of the role 
 
 ## Tools used in testing:
 
-* Databases: MySQL,MS SQL, Neo4j, DynamoDB
+* Databases: MySQL,MS SQL, Neo4j, DynamoDB,
 * Testing: Selenium WebDriver, Postman, Chrome Dev Tools, Playwright/TS
 * Version Control Systems: Git, Gitlab,
-* Other tools: Confluence, JIRA, Xray, TestLink, TestRail, AzureDevOps
+* Other tools: Confluence, JIRA, Xray, TestLink, TestRail, AzureDevOps, Jenkins, AWS, Graylog
 
 # Tech skills
 
